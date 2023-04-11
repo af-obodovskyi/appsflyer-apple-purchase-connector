@@ -12,7 +12,7 @@ let package = Package(
             name: "PurchaseConnector",
             targets: ["PurchaseConnector"]),
         .library(
-            name: "PurchaseConnector-Dynamic"
+            name: "PurchaseConnector-Dynamic",
             targets: ["PurchaseConnector-Dynamic"])
     ],
     dependencies: [
@@ -23,7 +23,7 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "PurchaseConnector",
-            path: "PurchaseConnector.xcframework",
+            path: "PurchaseConnector.xcframework"
         ),
         .binaryTarget(
             name: "PurchaseConnector-Dynamic",
