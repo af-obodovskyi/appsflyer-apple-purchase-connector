@@ -10,7 +10,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "PurchaseConnector",
-            targets: ["PurchaseConnector"])
+            targets: ["PurchaseConnector", "PurchaseConnector-Dynamic"])
     ],
     dependencies: [
         .package(url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", from: "6.10.0")
