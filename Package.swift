@@ -21,6 +21,10 @@ let package = Package(
         .binaryTarget(
             name: "PurchaseConnector",
             path: "PurchaseConnector.xcframework"
+        ),
+        .binaryTarget(
+            name: "PurchaseConnector-Dynamic",
+            path: "Dynamic/PurchaseConnector.xcframework"
         )
     ]
 )
