@@ -9,5 +9,6 @@
   "3.2.6": "https://github.com/af-obodovskyi/appsflyer-apple-purchase-connector/releases/download/3.2.6/purchase-connector-static.xcframework.zip",
   "4.1.1": "https://github.com/af-obodovskyi/appsflyer-apple-purchase-connector/releases/download/4.1.1/purchase-connector-static.xcframework.zip",
   "4.1.2": "https://github.com/af-obodovskyi/appsflyer-apple-purchase-connector/releases/download/4.1.2/purchase-connector-static.xcframework.zip",
-  "/Users/ivan.obodovskyi/Desktop/appsflyer.sdk.ios/Product/Carthage/Static/purchase-connector-static.xcframework.zip": "https://github.com/AppsFlyerSDK/appsflyer-apple-purchase-connector/releases/download//Users/ivan.obodovskyi/Desktop/appsflyer.sdk.ios/Product/Carthage/Static/purchase-connector-static.xcframework.zip/purchase-connector-static.xcframework.zip"
+  "/Users/ivan.obodovskyi/Desktop/appsflyer.sdk.ios/Product/Carthage/Static/purchase-connector-static.xcframework.zip": "https://github.com/AppsFlyerSDK/appsflyer-apple-purchase-connector/releases/download//Users/ivan.obodovskyi/Desktop/appsflyer.sdk.ios/Product/Carthage/Static/purchase-connector-static.xcframework.zip/purchase-connector-static.xcframework.zip",
+  "5.0.0": "https://github.com/AppsFlyerSDK/appsflyer-apple-purchase-connector/releases/download/5.0.0/purchase-connector-static.xcframework.zip"
 }
