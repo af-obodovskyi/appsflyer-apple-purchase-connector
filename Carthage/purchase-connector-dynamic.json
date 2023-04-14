@@ -12,5 +12,6 @@
   "5.0.0": "https://github.com/AppsFlyerSDK/appsflyer-apple-purchase-connector/releases/download/5.0.0/purchase-connector-dynamic.xcframework.zip",
   "5.1.0": "https://github.com/AppsFlyerSDK/appsflyer-apple-purchase-connector/releases/download/5.1.0/purchase-connector-dynamic.xcframework.zip",
   "5.2.0": "https://github.com/af-obodovskyi/appsflyer-apple-purchase-connector/releases/download/5.2.0/purchase-connector-dynamic.xcframework.zip",
-  "6.0.0": "https://github.com/af-obodovskyi/appsflyer-apple-purchase-connector/releases/download/6.0.0/purchase-connector-dynamic.xcframework.zip"
+  "6.0.0": "https://github.com/af-obodovskyi/appsflyer-apple-purchase-connector/releases/download/6.0.0/purchase-connector-dynamic.xcframework.zip",
+  "6.1.0": "https://github.com/af-obodovskyi/appsflyer-apple-purchase-connector/releases/download/6.1.0/purchase-connector-dynamic.xcframework.zip"
 }
