@@ -1,1 +1,1 @@
-binary "AppsflyerSDK/AppsFlyerFramework" == 6.10.0
+github "AppsflyerSDK/AppsFlyerFramework" == 6.10.0
