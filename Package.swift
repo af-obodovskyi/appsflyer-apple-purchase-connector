@@ -16,7 +16,7 @@ let package = Package(
             targets: ["PurchaseConnector-Dynamic"])
     ],
     dependencies: [
-        .package(url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework.git", from: "6.10.0")
+        .package(path: "https://github.com/AppsFlyerSDK/AppsFlyerFramework")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
